@@ -1,0 +1,4 @@
+CurrentClassInstance.Test1
+CurrentClassInstance.T
+CurrentClassInstance.Test
+CurrentClassInstance.CurrentClassInstance
